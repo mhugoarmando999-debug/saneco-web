@@ -891,7 +891,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-sm text-gray-500">© 2026 Serviambientales de Nariño. Todos los derechos reservados.</p>
+            <p className="text-sm text-gray-500">© 2026 Serviambientales de Nariño. Todos los derechos reservados.v2</p>
             <p className="text-sm text-gray-500">Concepto Sanitario vigente • Instituto Departamental de Salud de Nariño</p>
           </div>
         </div>
